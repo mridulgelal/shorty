@@ -32,3 +32,12 @@ A Node.js URL Shortener application built with Express and EJS that allows users
 
 ![image](https://github.com/user-attachments/assets/3a3f23d2-24c0-4572-91b8-b8532a9770f3)
 
+
+## How to run
+
+```bash
+git clone git@github.com:mridulgelal/shorty.git
+cd shorty
+npm install
+npm start
+
