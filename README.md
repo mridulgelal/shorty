@@ -1,6 +1,8 @@
-# URL Shortener Project
+# SHORTY
 
 A Node.js URL Shortener application built with Express and EJS that allows users to generate, track, and manage shortened URLs. The project uses JWT for authentication (with tokens passed via cookies), and provides both user and admin interfaces.
+
+![image](https://github.com/user-attachments/assets/3a3f23d2-24c0-4572-91b8-b8532a9770f3)
 
 ## Features
 
@@ -30,7 +32,7 @@ A Node.js URL Shortener application built with Express and EJS that allows users
 - **Utilities:** cookie-parser, shortid, uuid, dotenv
 - **Development:** nodemon
 
-![image](https://github.com/user-attachments/assets/3a3f23d2-24c0-4572-91b8-b8532a9770f3)
+
 
 
 ## How to run
