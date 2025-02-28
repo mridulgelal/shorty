@@ -30,4 +30,5 @@ A Node.js URL Shortener application built with Express and EJS that allows users
 - **Utilities:** cookie-parser, shortid, uuid, dotenv
 - **Development:** nodemon
 
-![image](https://github.com/user-attachments/assets/11777c54-f2f8-4b17-9b06-046616ffa080)
+![image](https://github.com/user-attachments/assets/3a3f23d2-24c0-4572-91b8-b8532a9770f3)
+
